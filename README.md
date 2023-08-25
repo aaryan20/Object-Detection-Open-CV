@@ -5,7 +5,8 @@ Object detection is a computer vision technique that identifies and locates obje
 Object detection models are typically categorized into two types: single-stage and two-stage. Single-stage models, such as YOLO and SSD, are faster and simpler to train, but they are not as accurate as two-stage models. Two-stage models, such as R-CNN, are more accurate, but they are slower and require more computational resources. The advent of deep neural networks has revolutionized object detection. Deep neural networks are able to learn complex features from images, which allows them to achieve state-of-the-art performance on object detection tasks.
 Following is an image which was processed with the MobileNet SSDv2 object detection algorithm.
 
-<img src="https://github.com/aaryan20/Object-Detection-Open-CV/assets/56794410/52de48be-d3fa-4024-b7a4-8d5587d3d03c"  width="750" height="900">
+<img src="https://github.com/aaryan20/Object-Detection-Open-CV/blob/main/image_result.jpg?raw=true"  width="750" height="900">
+
 
 In this project we use a pretrained [MobileNet SSDv2](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md), trained on the [MS COCO dataset](https://cocodataset.org/) to make predictions on the scraped posts from instagram.
 Here we perform object detection on Instagram handles like keralatourism, rajasthan_tourism etc.
