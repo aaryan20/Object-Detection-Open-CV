@@ -25,7 +25,7 @@ We iteratively loop over the posts collected from the instagram scraper and cons
 A dataset like below is generated, after processing the posts from instagram.
 
 
-![dataset](https://github.com/aaryan20/Object-Detection-Open-CV/assets/56794410/e3a0ba3f-0875-4fb5-affd-7c115b09b8ed)
+![dataset](https://github.com/aaryan20/Object-Detection-Open-CV/blob/bda1f709e10cc5028f6a677fd164a84267d137dd/dataset.png)
 
 
 
